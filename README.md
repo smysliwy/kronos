@@ -1,6 +1,6 @@
 <p align="center">
     <h1>Kronos.</h1>
-    <img src="https://user-images.githubusercontent.com/1342803/36623515-7293b4ec-18d3-11e8-85ab-4e2f8fb38fbd.png" width="320" alt="API Template">
+    <img src="http://stormpath.com/wp-content/uploads/2016/06/vapor-logo-1.jpg" width="320" alt="API Template">
     <br>
     <br>
     <a href="http://docs.vapor.codes/3.0/">
